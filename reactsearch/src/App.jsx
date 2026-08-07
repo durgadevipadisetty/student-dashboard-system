@@ -19,7 +19,7 @@ function App() {
       <nav className="navbar custom-navbar">
         <div className="container">
           <span className="navbar-brand d-flex align-items-center gap-2">
-            <i class="fa-solid fa-graduation-cap"></i>
+            <i className="fa-solid fa-graduation-cap"></i>
             Student Dashboard
           </span>
         </div>
